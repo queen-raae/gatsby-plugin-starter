@@ -5,7 +5,8 @@
     "plugin"
   ],
   "scripts": {
-    "develop": "yarn workspace demo develop"
+    "develop": "yarn workspace demo develop",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "@semantic-release/git": "10.0.1",
