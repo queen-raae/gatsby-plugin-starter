@@ -28,7 +28,7 @@ If you have any questions, feedback or suggestions head on over to [discussions]
 
 ### Bugs
 
-If you find a bug please open an [issue](https://github.com/raae/gatsby-plugin-starter/issues) and/or create a pull request to fix it.
+If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-plugin-starter/issues) and/or create a pull request to fix it.
 
 ## Stay updated
 
