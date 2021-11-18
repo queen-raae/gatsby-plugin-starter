@@ -6,5 +6,9 @@
   ],
   "scripts": {
     "develop": "yarn workspace demo develop"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "10.0.1",
+    "semantic-release": "18.0.0"
   }
 }

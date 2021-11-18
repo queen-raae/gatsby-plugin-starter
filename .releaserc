@@ -1,0 +1,11 @@
+{
+  "branches": ["main", "chore/semantic-release-closes-#2"],
+  "plugins": [
+    ["@semantic-release/npm", {
+      "pkgRoot": "plugin"
+    }],
+     ["@semantic-release/git", {
+      "assets": ["plugin/package.json"]
+    }]
+  ]
+}
