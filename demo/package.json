@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plugin-starter-demo",
+  "name": "demo",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "description": "@raae/gatsby-plugin-starter demo",
   "author": "@raae",
   "keywords": [
