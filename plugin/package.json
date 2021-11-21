@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postversion": "cp ../README.md ./README.md"
+    "postversion": "cp ../README.md ./README.md && cp ../CHANGELOG.md ./CHANGELOG.md"
   },
   "repository": {
     "type": "git",

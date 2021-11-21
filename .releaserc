@@ -1,11 +1,30 @@
 {
-  "branches": ["main", "chore/semantic-release-closes-#2"],
+  "branches": [
+    "main"
+  ],
   "plugins": [
-    ["@semantic-release/npm", {
-      "pkgRoot": "plugin"
-    }],
-     ["@semantic-release/git", {
-      "assets": ["plugin/package.json"]
-    }]
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/changelog",
+      {
+        "changelogFile": "CHANGELOG.md"
+      }
+    ],
+    [
+      "@semantic-release/npm",
+      {
+        "pkgRoot": "plugin"
+      }
+    ],
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "plugin/package.json",
+          "CHANGELOG.md"
+        ]
+      }
+    ]
   ]
 }
