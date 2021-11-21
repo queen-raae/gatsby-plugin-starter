@@ -1,3 +1,10 @@
+# [1.2.0-next.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.1.0...v1.2.0-next.1) (2021-11-21)
+
+
+### Features
+
+* add semantic release github plugin, closes [#10](https://github.com/queen-raae/gatsby-plugin-starter/issues/10) ([34cf3ae](https://github.com/queen-raae/gatsby-plugin-starter/commit/34cf3ae60eeb097568eaabaf154cf52411bd75e6))
+
 # [1.1.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.0.0...v1.1.0) (2021-11-21)
 
 
