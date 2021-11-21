@@ -1,10 +1,13 @@
 {
   "name": "@raae/gatsby-plugin-starter",
-  "version": "0.0.1",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "cp ../README.md ./README.md && npm publish --access public"
+    "postversion": "cp ../README.md ./README.md"
   },
   "repository": {
     "type": "git",
