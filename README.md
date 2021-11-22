@@ -4,7 +4,7 @@
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 
-Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=let-it-snow) to emails from yours truly.
+Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=plugin-starter) to emails from yours truly.
 
 ## How to install
 
