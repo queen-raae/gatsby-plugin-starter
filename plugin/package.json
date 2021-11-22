@@ -5,6 +5,10 @@
     "access": "public"
   },
   "description": "",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "main": "index.js",
   "scripts": {
     "postversion": "cp ../README.md ./README.md && cp ../CHANGELOG.md ./CHANGELOG.md"
@@ -20,8 +24,8 @@
   },
   "homepage": "https://github.com/queen-raae/gatsby-plugin-starter#readme",
   "devDependencies": {},
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin"
-  ]
+  "dependencies": {},
+  "peerDependencies": {
+    "gatsby": "^3.0.0 || ^4.0.0"
+  }
 }
