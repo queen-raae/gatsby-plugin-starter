@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.3.0...v1.3.1) (2021-11-22)
+
+### Bug Fixes
+
+- Correct utm_campaign in readme ([66d4956](https://github.com/queen-raae/gatsby-plugin-starter/commit/66d4956ba6203de6da4f5d99a4cc37cd9cd91d4f))
+
 # [1.3.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.2.0...v1.3.0) (2021-11-21)
 
 ### Features
