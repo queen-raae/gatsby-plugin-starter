@@ -1,3 +1,14 @@
+# [1.4.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.3.1...v1.4.0) (2021-11-22)
+
+### Bug Fixes
+
+- clean up package.json ([a7b93fa](https://github.com/queen-raae/gatsby-plugin-starter/commit/a7b93fa44abb7beebe131c140e0e47c67cbf11a7))
+
+### Features
+
+- add code of conduct, closes [#16](https://github.com/queen-raae/gatsby-plugin-starter/issues/16) ([073f528](https://github.com/queen-raae/gatsby-plugin-starter/commit/073f52827d32e672fa3e3ef9cab567030c762202))
+- add peer dependencies, closes [#15](https://github.com/queen-raae/gatsby-plugin-starter/issues/15) ([c58473c](https://github.com/queen-raae/gatsby-plugin-starter/commit/c58473c7151b6bfc55304c1b69d09b96dc39d935))
+
 ## [1.3.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.3.0...v1.3.1) (2021-11-22)
 
 ### Bug Fixes
