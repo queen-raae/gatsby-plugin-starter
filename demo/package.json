@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@raae/gatsby-plugin-starter": "*",
-    "gatsby": "4.1.4",
+    "gatsby": "4.6.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   }
