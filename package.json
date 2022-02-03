@@ -6,6 +6,7 @@
   ],
   "scripts": {
     "develop": "yarn workspace demo develop",
+    "clean": "yarn workspace demo clean",
     "semantic-release": "semantic-release",
     "prepare": "husky install"
   },
