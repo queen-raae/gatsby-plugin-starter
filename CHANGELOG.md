@@ -4,6 +4,12 @@
 
 - **demo:** plugin configuration [#28](https://github.com/queen-raae/gatsby-plugin-starter/issues/28) ([a59bbd6](https://github.com/queen-raae/gatsby-plugin-starter/commit/a59bbd68c9111a151d8251fde07ade0c5aaac2b7))
 
+## [1.6.2](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.6.1...v1.6.2) (2022-02-03)
+
+### Bug Fixes
+
+- **demo:** plugin configuration [#28](https://github.com/queen-raae/gatsby-plugin-starter/issues/28) ([a59bbd6](https://github.com/queen-raae/gatsby-plugin-starter/commit/a59bbd68c9111a151d8251fde07ade0c5aaac2b7))
+
 ## [1.6.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.6.0...v1.6.1) (2022-02-03)
 
 # [1.6.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.5.0...v1.6.0) (2022-02-03)
