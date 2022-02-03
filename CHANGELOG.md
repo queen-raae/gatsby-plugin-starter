@@ -1,3 +1,9 @@
+# [1.5.0-next.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.4.0...v1.5.0-next.1) (2022-02-03)
+
+### Features
+
+- uprade dependencies ([25cc493](https://github.com/queen-raae/gatsby-plugin-starter/commit/25cc49395b19c63f6eb76bc85b7df17d5690be2e))
+
 # [1.4.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.3.1...v1.4.0) (2021-11-22)
 
 ### Bug Fixes
