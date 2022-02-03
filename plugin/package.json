@@ -1,6 +1,6 @@
 {
   "name": "@raae/gatsby-plugin-starter",
-  "version": "1.5.0-next.1",
+  "version": "1.5.0-next.2",
   "author": "@raae",
   "description": "A starter to bootstrap your next Gatsby Plugin — automatic release to npm with semantic-release out of the box 📦 🪄",
   "keywords": [
