@@ -2,7 +2,7 @@
   "name": "@raae/gatsby-plugin-starter",
   "version": "1.4.0",
   "author": "@raae",
-  "description": "An awsome plugin from @raae that will solve all your problems 🤪",
+  "description": "A starter to bootstrap your next Gatsby Plugin — automatic release to npm with semantic-release out of the box 📦 🪄",
   "keywords": [
     "gatsby",
     "gatsby-plugin"
