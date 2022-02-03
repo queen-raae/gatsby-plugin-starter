@@ -34,20 +34,21 @@ Watch Queen Raae use this starter to create a new Gatsby plugin in a unauthorize
 
 1. [Use this template](https://github.com/queen-raae/gatsby-plugin-starter/generate) to create a new repository based on the code in this repository, but with a clean history. There is no need to drag all the commits of this repository by forking.
 2. Select the correct owner and give it a name according to the [Gatsby Plugin naming standard](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/naming-a-plugin).
-3. Clone your new repository onto your machine for development and run `yarn install`
 
 ### Make it yours
 
-1. Make the readme template the root template (`mv README_TEMPLATE.md README.md`)
-2. Delete the changelog (`rm CHANGELOG.md`)
-3. Search and replace `@raae/gatsby-plugin-starter` with the name of your plugin
-4. Search and replace `github.com/queen-raae/gatsby-plugin-starter` with the link to your repository
-5. Search and replace `queen@raae.codes` with your email address
-6. Search and replace `@raae` with your GitHub username
-7. Change the description in `plugin/package.json`
-8. Change the tag line in `README.md`
-9. Commit changes `git commit -a -m "chore: rename all the things"`
-10. Create an initial tag (`git tag v0.0.0 -a -m "Initial tag"`) and push it (`git push origin --tags`)
+1. Clone your new repository onto your machine
+2. Make the readme template the root template (`mv README_TEMPLATE.md README.md`)
+3. Delete the changelog (`rm CHANGELOG.md`)
+4. Search and replace `@raae/gatsby-plugin-starter` with the name of your plugin
+5. Search and replace `github.com/queen-raae/gatsby-plugin-starter` with the link to your repository
+6. Search and replace `queen@raae.codes` with your email address
+7. Search and replace `@raae` with your GitHub username
+8. Change the description in `plugin/package.json`
+9. Change the tag line in `README.md`
+10. Run `yarn install`
+11. Commit changes `git commit -a -m "chore: rename all the things"`
+12. Create an initial tag (`git tag v0.0.0 -a -m "Initial tag"`) and push it (`git push origin --tags`)
 
 ### Develop and test
 
