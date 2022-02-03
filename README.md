@@ -35,6 +35,8 @@ Watch Queen Raae use this starter to create a new Gatsby plugin in a unauthorize
 1. [Use this template](https://github.com/queen-raae/gatsby-plugin-starter/generate) to create a new repository based on the code in this repository, but with a clean history. There is no need to drag all the commits of this repository by forking.
 2. Select the correct owner and give it a name according to the [Gatsby Plugin naming standard](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/naming-a-plugin).
 
+**Note:** You will get a message about failing releases, this is expected and will sort itself out when you are ready for your [first release](https://github.com/queen-raae/gatsby-plugin-starter#release).
+
 ### Make it yours
 
 1. Clone your new repository onto your machine
