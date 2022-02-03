@@ -8,7 +8,7 @@ _— automatic release to npm with semantic-release out of the box_
 [![Tweet by @Ash_Hitchcock: almost forgot thanks to @raae the Gatsby Plugin starter ... made the plugin blazingly fast to write, with full Semantic Release to NPM Raising hands](https://queen.raae.codes/testimonials/gatsby-plugin-starter-ash.png "Tweet by @Ash_Hitchcock")](https://twitter.com/Ash_Hitchcock/status/1471048277747548163?s=20&t=YKN2khQAbqaLSSccqculsw)
 
 &nbsp;  
-**Heads up:** This package is not ment to be used as a Gatsby Plugin, it's a template for you to start from.
+**Heads up:** This package is _NOT_ to be used as a Gatsby Plugin; it's a template for you to bootstrap your own plugin.
 
 &nbsp;
 
