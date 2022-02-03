@@ -1,3 +1,5 @@
+## [1.6.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.6.0...v1.6.1) (2022-02-03)
+
 # [1.6.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.5.0...v1.6.0) (2022-02-03)
 
 ### Features
