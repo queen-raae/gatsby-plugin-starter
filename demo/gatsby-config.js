@@ -1,3 +1,8 @@
 module.exports = {
-  plugins: ["@raae/gatsby-plugin-starter"],
+  plugins: {
+    resolve: "@raae/gatsby-plugin-starter",
+    options: {
+      emoji: "pirate",
+    },
+  },
 };
