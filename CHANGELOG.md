@@ -1,3 +1,9 @@
+# [1.6.0-next.1](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.5.0...v1.6.0-next.1) (2022-02-03)
+
+### Features
+
+- better default plugin ([1378f40](https://github.com/queen-raae/gatsby-plugin-starter/commit/1378f40846a3202f8a47b7fb1510dff305c74973))
+
 # [1.5.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.4.0...v1.5.0) (2022-02-01)
 
 ### Features
