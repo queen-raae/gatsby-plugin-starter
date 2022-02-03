@@ -1,8 +1,14 @@
 # @raae/gatsby-plugin-starter
 
-> A starter to bootstrap your next Gatsby Plugin — automatic release to npm with semantic-release out of the box 📦 🪄
+_A starter to bootstrap your next Gatsby Plugin_  
+_— automatic release to npm with semantic-release out of the box_
 
-This package is not ment to be used as a plugin, even do you can.
+&nbsp;
+
+[![Tweet by @Ash_Hitchcock: almost forgot thanks to @raae the Gatsby Plugin starter ... made the plugin blazingly fast to write, with full Semantic Release to NPM Raising hands](https://queen.raae.codes/testimonials/gatsby-plugin-starter-ash.png "Tweet by @Ash_Hitchcock")](https://twitter.com/Ash_Hitchcock/status/1471048277747548163?s=20&t=YKN2khQAbqaLSSccqculsw)
+
+&nbsp;  
+**Heads up:** This package is not ment to be used as a Gatsby Plugin, it's a template for you to start from.
 
 &nbsp;
 
