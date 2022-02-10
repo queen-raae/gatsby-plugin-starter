@@ -6,7 +6,7 @@ const validKeys = Object.keys(EMOJIS);
 
 exports.pluginOptionsSchema = ({ Joi }) => {
   return Joi.object({
-    message: Joi.string().default("Hello from the Plugin"),
+    message: Joi.string().default("Hi from the plugin"),
     emoji: Joi.string()
       .valid(...validKeys)
       .default(validKeys[0])
