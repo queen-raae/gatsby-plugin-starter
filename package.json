@@ -5,17 +5,24 @@
     "plugin"
   ],
   "scripts": {
+    "test": "jest --watch",
     "develop": "yarn workspace demo develop",
     "clean": "yarn workspace demo clean",
-    "semantic-release": "semantic-release",
+    "semantic-release": "jest && semantic-release",
     "prepare": "husky install"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.1",
     "@semantic-release/git": "10.0.1",
+    "babel-jest": "27.5.1",
+    "babel-preset-gatsby": "2.7.0",
+    "gatsby-plugin-utils": "3.1.0",
     "husky": "7.0.4",
+    "identity-obj-proxy": "3.0.0",
+    "jest": "27.5.1",
     "lint-staged": "12.3.2",
     "prettier": "2.5.1",
+    "react-test-renderer": "17.0.2",
     "semantic-release": "19.0.2"
   },
   "lint-staged": {
