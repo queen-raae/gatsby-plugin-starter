@@ -1,3 +1,13 @@
+# [1.7.0](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.6.1...v1.7.0) (2022-09-27)
+
+### Bug Fixes
+
+- **demo:** plugin configuration [#28](https://github.com/queen-raae/gatsby-plugin-starter/issues/28) ([a59bbd6](https://github.com/queen-raae/gatsby-plugin-starter/commit/a59bbd68c9111a151d8251fde07ade0c5aaac2b7))
+
+### Features
+
+- add tests [#25](https://github.com/queen-raae/gatsby-plugin-starter/issues/25) ([#29](https://github.com/queen-raae/gatsby-plugin-starter/issues/29)) ([7413619](https://github.com/queen-raae/gatsby-plugin-starter/commit/74136199b65424cd4bb6ea35ebe512d182d82118))
+
 ## [1.6.2](https://github.com/queen-raae/gatsby-plugin-starter/compare/v1.6.1...v1.6.2) (2022-02-03)
 
 ### Bug Fixes
